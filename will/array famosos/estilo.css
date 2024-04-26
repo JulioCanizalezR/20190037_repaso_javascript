@@ -1,0 +1,30 @@
+/* CSS personalizado */
+body {
+    background-color: rgb(195, 148, 246);
+  }
+
+  .card {
+    background-color: rgb(90, 83, 228);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(33, 36, 38, 1);
+    transition: all 0.3s ease;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+  }
+
+  .card-title {
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+
+  .card-text {
+    color: rgb(0, 0, 0);
+    font-size: 1.1rem;
+  }
+
+  .card-details {
+    font-style: italic;
+  }
