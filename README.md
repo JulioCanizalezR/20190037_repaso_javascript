@@ -1,2 +1,5 @@
 # 20190037_repaso_javascript
-TArea de clase
+Tarea de clase
+
+
+Julio Cesar Canizalez Rivas
